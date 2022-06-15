@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="https://fluent-vue.demivan.me">Documentation</a>
+  <a href="https://fluent-vue.demivan.me">Documentation</a> —
   <a href="https://github.com/demivan/fluent-vue">Repository</a>
 </p>
 
