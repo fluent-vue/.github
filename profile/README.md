@@ -7,7 +7,9 @@
   Internationalization plugin for Vue.js
 </p>
 
-`fluent-vue` is a [Vue.js](https://vuejs.org) integration for [Fluent.js](https://github.com/projectfluent/fluent.js) - JavaScript implementation of Mozilla's [Project Fluent](https://projectfluent.org)
+<p align="center">
+  <code>fluent-vue</code> is a <a href="https://vuejs.org" rel="nofollow">Vue.js</a> integration for <a href="https://github.com/projectfluent/fluent.js">Fluent.js</a> - JavaScript implementation of Mozilla's <a href="https://projectfluent.org">Project Fluent</a>
+</p>
 
 <p align="center">
   <a href="https://fluent-vue.demivan.me">Documentation</a> —
