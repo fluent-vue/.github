@@ -20,8 +20,6 @@ body:
       label: Reproduction
       description: A [minimal reproduction](https://stackoverflow.com/help/minimal-reproducible-example) is stongly recommended, otherwise the issue might be closed.
       placeholder: Reproduction
-    validations:
-      required: true
   - type: textarea
     id: system-info
     attributes:
