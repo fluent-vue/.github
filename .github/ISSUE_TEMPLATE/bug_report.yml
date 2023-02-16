@@ -24,9 +24,9 @@ body:
     id: system-info
     attributes:
       label: System Info
-      description: Output of `npx envinfo --system --binaries --browsers`
+      description: Output of `npx envinfo --system --binaries --browsers --npmPackages='vue,fluent-vue,unplugin-fluent-vue'`
       render: Shell
-      placeholder: System, Binaries, Browsers
+      placeholder: System, Binaries, Browsers, NPM packages
     validations:
       required: true
   - type: dropdown
