@@ -1,4 +1,4 @@
-<!-- DO NOT IGNORE THE TEMPLATE
+<!--
 
 Thank you for contributing!
 
